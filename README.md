@@ -7,6 +7,7 @@ LeetCode, NeetCode, LintCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnkitaRooj/DSA/tree/master/0001-two-sum) |
+| [0792-binary-search](https://github.com/AnkitaRooj/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ LeetCode, NeetCode, LintCode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnkitaRooj/DSA/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/AnkitaRooj/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
