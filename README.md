@@ -30,4 +30,8 @@ LeetCode, NeetCode, LintCode
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/AnkitaRooj/DSA/tree/master/0792-binary-search) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AnkitaRooj/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
