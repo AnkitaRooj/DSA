@@ -37,4 +37,5 @@ LeetCode, NeetCode, LintCode
 | [0577-employee-bonus](https://github.com/AnkitaRooj/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/AnkitaRooj/DSA/tree/master/0584-find-customer-referee) |
 | [1415-students-and-examinations](https://github.com/AnkitaRooj/DSA/tree/master/1415-students-and-examinations) |
+| [1811-fix-names-in-a-table](https://github.com/AnkitaRooj/DSA/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
