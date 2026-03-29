@@ -41,6 +41,7 @@ LeetCode, NeetCode, LintCode
 | [0584-find-customer-referee](https://github.com/AnkitaRooj/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AnkitaRooj/DSA/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/AnkitaRooj/DSA/tree/master/0626-exchange-seats) |
+| [1148-article-views-i](https://github.com/AnkitaRooj/DSA/tree/master/1148-article-views-i) |
 | [1415-students-and-examinations](https://github.com/AnkitaRooj/DSA/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/AnkitaRooj/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/AnkitaRooj/DSA/tree/master/1625-group-sold-products-by-the-date) |
